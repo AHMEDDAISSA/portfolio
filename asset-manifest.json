@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.f4dcf3fd.css",
-    "main.js": "/react-portfolio-template/static/js/main.6bd5ca59.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/flutt.png": "/react-portfolio-template/static/media/flutt.5a41105cd55f1b9e15a0.png",
-    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/react-portfolio-template/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/ges.png": "/react-portfolio-template/static/media/ges.8dd989a1bda5a9435853.png",
-    "static/media/profile1.jpg": "/react-portfolio-template/static/media/profile1.5e2a7266e69bed67a946.jpg",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.f4dcf3fd.css.map": "/react-portfolio-template/static/css/main.f4dcf3fd.css.map",
-    "main.6bd5ca59.js.map": "/react-portfolio-template/static/js/main.6bd5ca59.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.70b9d8f5.css",
+    "main.js": "/portfolio/static/js/main.039abf3f.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/flutt.png": "/portfolio/static/media/flutt.5a41105cd55f1b9e15a0.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock01.png": "/portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/ges.png": "/portfolio/static/media/ges.8dd989a1bda5a9435853.png",
+    "static/media/profile1.jpg": "/portfolio/static/media/profile1.5e2a7266e69bed67a946.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.70b9d8f5.css.map": "/portfolio/static/css/main.70b9d8f5.css.map",
+    "main.039abf3f.js.map": "/portfolio/static/js/main.039abf3f.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4dcf3fd.css",
-    "static/js/main.6bd5ca59.js"
+    "static/css/main.70b9d8f5.css",
+    "static/js/main.039abf3f.js"
   ]
 }
