@@ -17,13 +17,13 @@ function Project() {
             </div>
             <div className="project">
                 <img src={flutt} className="zoom" alt="thumbnail" width="100%"/>
-                <h2>Commercial Management Website</h2>
-                <p>Designed and developed a web application using Symfony to manage commercial operations. Features include inventory management, customer data handling, and sales tracking, offering a robust and scalable solution for businesses..</p>
+                <h2>Quiz Application</h2>
+                <p>Developed a lightweight quiz application using Flutter, featuring a user-friendly interface and interactive question-answer functionality.</p>
             </div>
             <div className="project">
                 <img src={ges} className="zoom" alt="thumbnail" width="100%"/>
-                <h2>Quiz Application</h2>
-                <p>Developed a lightweight quiz application using Flutter, featuring a user-friendly interface and interactive question-answer functionality.</p>
+                <h2>Commercial Management Website</h2>
+                <p>Designed and developed a web application using Symfony to manage commercial operations. Features include inventory management, customer data handling, and sales tracking, offering a robust and scalable solution for businesses.</p>
             </div>
         </div>
     </div>
