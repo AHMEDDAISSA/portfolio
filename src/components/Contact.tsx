@@ -115,7 +115,7 @@ function Contact() {
             <Button
               className="custom-button"
               startIcon={<DownloadIcon />}
-              href="https://raw.githubusercontent.com/AHMEDDAISSA/portfolio/gh-pages/MY_RESUME.pdf" // Assumes resume.pdf is in the public folder
+              href="https://raw.githubusercontent.com/AHMEDDAISSA/portfolio/gh-pages/Resume.pdf" // Assumes resume.pdf is in the public folder
               target="_blank" // Opens in a new tab
               download >
               Download My Resume
