@@ -4,7 +4,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 
 import '../assets/styles/Main.scss'; 
-import profileImage from '../assets/images/profile1.jpg'; 
+import profileImage from '../assets/images/me2.jpeg'; 
 
 function Main() {
   return (
